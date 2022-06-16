@@ -14,6 +14,7 @@ This repository contains my personal solutions to a number of [leetcode](https:/
 | [11. Container With Most Water]() | [C#](/csharp/11.ContainerWithMostWater.cs), [Go](/golang/11.ContainerWithMostWater.go) |
 | [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [Go](golang/12.IntegerToRoman.go) |
 | [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Go](/golang/13.RomanToInteger.go) |
+| [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Go](/golang/14.LongestCommonPrefix.go) |
 | [15. 3Sum](https://leetcode.com/problems/3sum/) | [C#](/csharp/15.3Sum.cs) |
 | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Go](/golang/19.RemoveNthNodeFromEndOfList.go) |
 | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Go](/golang/26.RemoveDuplicatesFromSortedArray.go) |
@@ -22,6 +23,7 @@ This repository contains my personal solutions to a number of [leetcode](https:/
 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [C#](/csharp/56.MergeIntervals.cs) |
 | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Go](/golang/88.MergeSortedArray.go) |
 | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Go](/golang/98.ValidateBinarySearchTree.go) |
+| [120. Triangle](https://leetcode.com/problems/triangle/) | [Go](/golang/120.Triangle.go) |
 | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [C#](/csharp/125.ValidPalindrome.cs) |
 | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [C#](/csharp/141.LinkedListCycle.cs) |
 | [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [C#](/csharp/153.FindMinimumInRotatedSortedArray.cs) |
@@ -40,8 +42,12 @@ This repository contains my personal solutions to a number of [leetcode](https:/
 | [703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | [C#](/csharp/703.KthLargestElementInAStream.cs) |
 | [733. Flood Fill](https://leetcode.com/problems/flood-fill/) | [C#](/csharp/733.FloodFill.cs) |
 | [1032. Stream of Characters](https://leetcode.com/problems/stream-of-characters/) | [C#](/csharp/1032.StreamOfCharacters.cs) |
+| [1048. Longest String Chain](https://leetcode.com/problems/longest-string-chain/) | [Go](/golang/1048.LongestStringChain.go) |
 | [1162. As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/) | [C#](/csharp/1162.AsFarFromLandAsPossible.cs) |
 | [1254. Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/) | [C#](/csharp/1254.NumberOfClosedIslands.cs) |
 | [1332. Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/) | [Go](/golang/1332.RemovePalindromicSubsequences.go) |
 | [1422. Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/) | [C#](/csharp/1422.MaximumScoreAfterSplittingAString.cs) |
 | [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [Go](/golang/1480.RunningSumOfOneDArray.go) |
+| [1658. Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | [Go](/golang/1658.MinimumOperationsToReduceXToZero.go) |
+| [1695. Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/) | [Go](/golang/1695.MaximumErasureValue.go) |
+| [2303. Calculate Amount Paid in Taxes](https://leetcode.com/problems/calculate-amount-paid-in-taxes/) | [Go](/golang/2303.CalculateAmountPaidInTaxes.go) |
